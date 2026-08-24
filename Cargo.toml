@@ -1,6 +1,6 @@
 [package]
 name = "uuid-lite"
-version = "1.10.1"
+version = "1.10.2"
 edition = "2024"
 description = "A minimal random (v4) UUID generator."
 license = "MIT"
@@ -14,16 +14,17 @@ getrandom = "0.4"
 
 [features]
 01D-EpFijv_3H-j2nErWbfHA = []
-02AU1HqXs_uCuu2l-LioAvVQ = []
-03nH6O-T3lKyoCR9-mxaq9Tw = []
-04xdfxwQ4PINBs4XViUE45Pg = []
-05YLmT9ze0WIk4zWHI76F8Bw = []
-06Ilx--uobWABtHuSb3uSARg = []
-079BnuIhrSHJeV0b76qqTnztcD67WQAbft10UajnAkUqU = []
-08cwRTrXKb7EwPUnj3T5786tcD67WQAbft10UajnAkUqU = []
-09ppM-eiCyHnssqhoGe0cOEg = []
-10XMtWAE9HCq40aR2k9u-Gj6b_i6ZKD9izoEs_hg7sa30 = []
-11nyS7_wN0je3DF-cAiQDfvdcD67WQAbft10UajnAkUqU = []
-12STULhzM90vKpfPTfDi9kCdcD67WQAbft10UajnAkUqU = []
-13471yp6RWkB5dY6jokOupzw = []
+02DSSRwgwUwpXHXPzrq2cDqckq-eazJ0wDqFfOqqlbQzU = []
+03AU1HqXs_uCuu2l-LioAvVQ = []
+04nH6O-T3lKyoCR9-mxaq9Tw = []
+05xdfxwQ4PINBs4XViUE45Pg = []
+06YLmT9ze0WIk4zWHI76F8Bw = []
+07Ilx--uobWABtHuSb3uSARg = []
+089BnuIhrSHJeV0b76qqTnztcD67WQAbft10UajnAkUqU = []
+09cwRTrXKb7EwPUnj3T5786tcD67WQAbft10UajnAkUqU = []
+10ppM-eiCyHnssqhoGe0cOEg = []
+11XMtWAE9HCq40aR2k9u-Gj6b_i6ZKD9izoEs_hg7sa30 = []
+12nyS7_wN0je3DF-cAiQDfvdcD67WQAbft10UajnAkUqU = []
+13STULhzM90vKpfPTfDi9kCdcD67WQAbft10UajnAkUqU = []
+14471yp6RWkB5dY6jokOupzw = []
 c12EKaNXHS2ON9lbpPOvKjwhm86H1cLw_8YDN_VECsU_Izp9QbWBhGZycY7Y87doQpM5RUquvPz0T42Eleh2RhoaSA78mrLDzVIaWWzF7emGUf20unGcbDvkQ7C237FIJx = []
