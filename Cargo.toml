@@ -1,6 +1,6 @@
 [package]
 name = "uuid-lite"
-version = "1.10.5"
+version = "1.10.6"
 edition = "2024"
 description = "A minimal random (v4) UUID generator."
 license = "MIT"
@@ -24,7 +24,5 @@ getrandom = "0.4"
 09s4CikDb46oQ4DgwMBT0XGu7Onj8m5cJZO9K7adfhDmc = []
 10ySz190jlB54iXr5g6m2n4w = []
 11X819a3NZ-0IrKBdB6sLqEYTat92qTJb5hF0OTu0CoVk = []
-12rnJtE0ekpK8Js6Xtdep-0-7Onj8m5cJZO9K7adfhDmc = []
-1326hDsP5nDoq1cVcZG1Kq4O7Onj8m5cJZO9K7adfhDmc = []
-14mon7F0oVb6g3Jz5gfLWB9A = []
+12mon7F0oVb6g3Jz5gfLWB9A = []
 c1zPKEHjYV3HWi30hBCovzECnvnxDJedzD6N5x6H_zUl6yayKoq55dg2pSUvDehdGaaHAWqyrVJLNrTJDpkry3pvblhxKmAQ7bLicxqjWCsl2VqAUqWU4tRYHvzCwQDYdb = []
